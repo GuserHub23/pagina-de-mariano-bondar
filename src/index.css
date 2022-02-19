@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home_page {
+  background: url(https://images.freeimages.com/images/premium/previews/5154/51541166-decorative-doodles-seamless-pattern.jpg);
+  object-fit:fill;
+}
+
+.home {
+  backdrop-filter: blur(9px);
+  background-color: rgba(255, 0, 0, .4);
+}
+
+.b_ground{
+  background-color: #16191b;
+}
